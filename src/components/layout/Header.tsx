@@ -43,7 +43,7 @@ const Header: React.FC = () => {
         {/* Logo */}
         <Link to="https://indevice.com.br" className="flex items-center space-x-2">
           <img 
-        src="https://indevice.com.br/public/images/media/1720081737imagem_2024-07-04_052851963.png" // ou o caminho completo para sua logo
+        src="https://pro.indevice.com.br/media/logo-nova-indevice-brnca.png?_t=1748971259" // ou o caminho completo para sua logo
         alt="Indevice Produções" 
         className="h-10 w-auto" // Ajuste a altura conforme necessário
       />
