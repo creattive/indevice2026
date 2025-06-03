@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source 
-            src="https://player.vimeo.com/external/435802346.sd.mp4?s=c3baec99b53319723ce25b9a1f828d63af5a95cc&profile_id=164&oauth2_token_id=57447761" 
+            src="https://www.youtube.com/watch?v=4gKxwIndswc" 
             type="video/mp4" 
           />
           Your browser does not support the video tag.
