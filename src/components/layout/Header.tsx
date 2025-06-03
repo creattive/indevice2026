@@ -41,9 +41,12 @@ const Header: React.FC = () => {
     >
       <div className="container-custom flex items-center justify-between">
         {/* Logo */}
-        <Link to="https://indevice.com.br/public/images/media/1720081737imagem_2024-07-04_052851963.png" className="flex items-center space-x-2">
-          <Film className="w-8 h-8 text-primary-500" />
-          <span className="text-xl font-bold text-white">INDEVICE</span>
+        <Link to="https://indevice.com.br" className="flex items-center space-x-2">
+          <img 
+        src="https://indevice.com.br/public/images/media/1720081737imagem_2024-07-04_052851963.png" // ou o caminho completo para sua logo
+        alt="Indevice Produções" 
+        className="h-10 w-auto" // Ajuste a altura conforme necessário
+      />
         </Link>
 
         {/* Desktop Navigation */}
